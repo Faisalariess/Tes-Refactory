@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b307ad-a49f-43a6-82a5-9eaa1bf3e9a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zNy2SOLRtCSMFi34GsFwypRq3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeapYear" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="LogicTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b307ad-a49f-43a6-82a5-9eaa1bf3e9a8" name="Default Changelist" comment="" />
+      <created>1634002633150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634002633150</updated>
+      <workItem from="1634002637402" duration="3062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634005496487">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="142" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.724@0.0.1366.724" timestamp="1634005496487" />
+    <state x="479" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634002812393">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="479" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.724@0.0.1366.724" timestamp="1634002812393" />
+    <state x="416" y="156" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1634005495677">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="416" y="156" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.724@0.0.1366.724" timestamp="1634005495677" />
+    <state width="1296" height="159" key="GridCell.Tab.0.bottom" timestamp="1634005704058">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1296" height="159" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1634005704058" />
+    <state width="1296" height="159" key="GridCell.Tab.0.center" timestamp="1634005704058">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1296" height="159" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1634005704058" />
+    <state width="1296" height="159" key="GridCell.Tab.0.left" timestamp="1634005704058">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1296" height="159" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1634005704058" />
+    <state width="1296" height="159" key="GridCell.Tab.0.right" timestamp="1634005704058">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1296" height="159" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1634005704058" />
+    <state x="406" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1634002639874">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="406" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1634002639874" />
+    <state x="112" y="0" key="new project wizard" timestamp="1634002776968">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="112" y="0" key="new project wizard/0.0.1366.724@0.0.1366.724" timestamp="1634002776968" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tes$LeapYear.ic" NAME="LeapYear Coverage Results" MODIFIED="1634005179768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
